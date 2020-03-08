@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 describe('Test form', function(){
     it ('Test link', function(){
         cy.visit('/');
